@@ -44,7 +44,7 @@ Status           - Character      | The final status of the trip, that  can be e
 
 
 Below steps were followed to understand and derive insights. 
-All the steps folowed are available in the R file available in the repository. 
+All the steps folowed are in the R file available in the repository. 
 
   Data Cleanup
   
